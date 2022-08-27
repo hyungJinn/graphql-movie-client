@@ -71,7 +71,6 @@ const PosterBg = styled.div`
 
 export default function Movies() {
   const { data, loading } = useQuery(ALL_MOVIES);
-
   return (
     <Container>
       <Header>
