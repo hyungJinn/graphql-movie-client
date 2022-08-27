@@ -72,3 +72,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### `pollo Client Devtools` fails to minify
 
 굉장히 nice하다!
+
+### `npm i sass styled-components` fails to minify
+
+sass, styled-components 설치
